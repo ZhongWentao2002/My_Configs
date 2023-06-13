@@ -1,5 +1,5 @@
 {
-  "Use Non-ASCII Font" : false,
+  "Custom Directory" : "No",
   "Tags" : [
 
   ],
@@ -10,10 +10,10 @@
     "Alpha Component" : 1,
     "Green Component" : 0.681304931640625
   },
-  "Ansi 6 Color" : {
+  "Ansi 7 Color" : {
     "Green Component" : 0.73333334922790527,
     "Blue Component" : 0.73333334922790527,
-    "Red Component" : 0
+    "Red Component" : 0.73333334922790527
   },
   "Draw Powerline Glyphs" : true,
   "Bold Color" : {
@@ -21,8 +21,16 @@
     "Blue Component" : 1,
     "Red Component" : 1
   },
-  "Normal Font" : "MesloLGMForPowerline-BoldItalic 14",
-  "Horizontal Spacing" : 1,
+  "Ansi 8 Color" : {
+    "Green Component" : 0.3333333432674408,
+    "Blue Component" : 0.3333333432674408,
+    "Red Component" : 0.3333333432674408
+  },
+  "Ansi 9 Color" : {
+    "Green Component" : 0.3333333432674408,
+    "Blue Component" : 0.3333333432674408,
+    "Red Component" : 1
+  },
   "Ansi 4 Color" : {
     "Red Component" : 0.050488349050283432,
     "Color Space" : "sRGB",
@@ -64,11 +72,11 @@
     "Red Component" : 1
   },
   "Foreground Color" : {
-    "Red Component" : 0.925262451171875,
+    "Red Component" : 0.96527099609375,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.925262451171875,
+    "Blue Component" : 0.96527099609375,
     "Alpha Component" : 1,
-    "Green Component" : 0.925262451171875
+    "Green Component" : 0.96527099609375
   },
   "Working Directory" : "\/Users\/clutch_powers",
   "Blinking Cursor" : true,
@@ -76,9 +84,9 @@
   "Sync Title" : false,
   "Prompt Before Closing 2" : false,
   "BM Growl" : true,
+  "Mouse Reporting" : true,
   "Command" : "",
   "Description" : "Default",
-  "Mouse Reporting" : true,
   "Screen" : -1,
   "Selection Color" : {
     "Green Component" : 0.8353000283241272,
@@ -317,21 +325,12 @@
     "Blue Component" : 0.73333334922790527,
     "Red Component" : 0.73333334922790527
   },
+  "Transparency" : 0.4515708111702128,
   "Ansi 0 Color" : {
     "Green Component" : 0,
     "Blue Component" : 0,
     "Red Component" : 0
   },
-  "Guid" : "012A92D9-78B0-45FC-AC6F-244D9EC500B8",
-  "Custom Directory" : "No",
-  "Link Color" : {
-    "Red Component" : 0,
-    "Color Space" : "sRGB",
-    "Blue Component" : 0.73422712087631226,
-    "Alpha Component" : 1,
-    "Green Component" : 0.35915297269821167
-  },
-  "Transparency" : 0.4515708111702128,
   "Ansi 2 Color" : {
     "Red Component" : 0.092546948758347375,
     "Color Space" : "sRGB",
@@ -339,27 +338,12 @@
     "Alpha Component" : 1,
     "Green Component" : 0.728729248046875
   },
-  "Ansi 3 Color" : {
-    "Red Component" : 0.8388671875,
+  "Link Color" : {
+    "Red Component" : 0.41265869140625,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.058099642395973226,
+    "Blue Component" : 0.78399505279958248,
     "Alpha Component" : 1,
-    "Green Component" : 0.82785614360556903
-  },
-  "Ansi 7 Color" : {
-    "Green Component" : 0.73333334922790527,
-    "Blue Component" : 0.73333334922790527,
-    "Red Component" : 0.73333334922790527
-  },
-  "Ansi 8 Color" : {
-    "Green Component" : 0.3333333432674408,
-    "Blue Component" : 0.3333333432674408,
-    "Red Component" : 0.3333333432674408
-  },
-  "Ansi 9 Color" : {
-    "Green Component" : 0.3333333432674408,
-    "Blue Component" : 0.3333333432674408,
-    "Red Component" : 1
+    "Green Component" : 1
   },
   "Ansi 1 Color" : {
     "Red Component" : 0.57073974609375,
@@ -368,5 +352,23 @@
     "Alpha Component" : 1,
     "Green Component" : 0.058148640207946301
   },
+  "Guid" : "012A92D9-78B0-45FC-AC6F-244D9EC500B8",
+  "Use Non-ASCII Font" : false,
+  "Ansi 6 Color" : {
+    "Red Component" : 0.21672418108209968,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.933502197265625,
+    "Alpha Component" : 1,
+    "Green Component" : 0.92670675361131372
+  },
+  "Normal Font" : "MesloLGMForPowerline-BoldItalic 14",
+  "Ansi 3 Color" : {
+    "Red Component" : 0.998992919921875,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.10213092900812626,
+    "Alpha Component" : 1,
+    "Green Component" : 0.98634464269408195
+  },
+  "Horizontal Spacing" : 1,
   "Right Option Key Sends" : 0
 }
