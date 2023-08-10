@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>build</key>
-	<string>1217</string>
+	<string>1221</string>
 	<key>license</key>
 	<dict>
 		<key>email</key>
@@ -25,13 +25,13 @@
 				<key>key</key>
 				<string>100</string>
 				<key>uuid</key>
-				<string>D5F15263-50D2-4A6D-A8EE-6F96EAF2072A</string>
+				<string>3CD147CC-7CB1-4BFC-ABC2-30E0100E7519</string>
 			</dict>
 			<dict>
 				<key>key</key>
-				<string>6</string>
+				<string>1</string>
 				<key>uuid</key>
-				<string>D301CDCF-7DAE-407D-A4BE-CCD16B120433</string>
+				<string>94B4C65D-52F6-4CD1-9623-093122637C27</string>
 			</dict>
 		</array>
 		<key>CPU_ProcessCount</key>
@@ -120,78 +120,7 @@
 		<key>DropdownTheme-SectionHeaders</key>
 		<string>0.00 0.00 0.00 1.00</string>
 		<key>FanControl_Sets</key>
-		<array>
-			<dict>
-				<key>model</key>
-				<string>MacBookPro18,1</string>
-				<key>name</key>
-				<string>中</string>
-				<key>speeds</key>
-				<array>
-					<dict>
-						<key>fan</key>
-						<string>F0Ac</string>
-						<key>high</key>
-						<integer>4296</integer>
-						<key>low</key>
-						<integer>1499</integer>
-						<key>percentage</key>
-						<integer>50</integer>
-						<key>speed</key>
-						<integer>2897</integer>
-					</dict>
-					<dict>
-						<key>fan</key>
-						<string>F1Ac</string>
-						<key>high</key>
-						<integer>4744</integer>
-						<key>low</key>
-						<integer>1499</integer>
-						<key>percentage</key>
-						<integer>50</integer>
-						<key>speed</key>
-						<integer>3121</integer>
-					</dict>
-				</array>
-				<key>uuid</key>
-				<string>FF4F259D-CC52-4B17-887E-2CED3350893C</string>
-			</dict>
-			<dict>
-				<key>model</key>
-				<string>MacBookPro18,1</string>
-				<key>name</key>
-				<string>高</string>
-				<key>speeds</key>
-				<array>
-					<dict>
-						<key>fan</key>
-						<string>F0Ac</string>
-						<key>high</key>
-						<integer>4296</integer>
-						<key>low</key>
-						<integer>1499</integer>
-						<key>percentage</key>
-						<integer>100</integer>
-						<key>speed</key>
-						<integer>4296</integer>
-					</dict>
-					<dict>
-						<key>fan</key>
-						<string>F1Ac</string>
-						<key>high</key>
-						<integer>4744</integer>
-						<key>low</key>
-						<integer>1499</integer>
-						<key>percentage</key>
-						<integer>100</integer>
-						<key>speed</key>
-						<integer>4744</integer>
-					</dict>
-				</array>
-				<key>uuid</key>
-				<string>23B205B9-D449-4637-A6C0-06FD6F990996</string>
-			</dict>
-		</array>
+		<array/>
 		<key>GPU_DropdownGraph</key>
 		<string>0.15 0.81 0.96 1.00</string>
 		<key>Load_DropdownGraph1</key>
@@ -260,7 +189,6 @@
 		<key>StatusItems-Order</key>
 		<array>
 			<integer>4</integer>
-			<integer>3</integer>
 			<integer>2</integer>
 			<integer>1</integer>
 		</array>
@@ -283,8 +211,41 @@
 		</array>
 		<key>TimerFrequency</key>
 		<integer>3</integer>
+		<key>Weather_AvailableProviders</key>
+		<array>
+			<dict>
+				<key>key</key>
+				<string>apple</string>
+				<key>name</key>
+				<string>Apple Weather</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>accuweather</string>
+				<key>name</key>
+				<string>AccuWeather</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>aeris</string>
+				<key>name</key>
+				<string>Aeris Weather</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>environmentcanada</string>
+				<key>name</key>
+				<string>Environment Canada - Canada Only</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>willyweather</string>
+				<key>name</key>
+				<string>WillyWeather (BoM) - Australia Only</string>
+			</dict>
+		</array>
 	</dict>
 	<key>version</key>
-	<string>6.70</string>
+	<string>6.71</string>
 </dict>
 </plist>
